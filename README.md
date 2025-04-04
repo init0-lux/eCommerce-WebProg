@@ -1,11 +1,13 @@
 # AllMaart - An eCommerce Website
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+AllMaart is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript. It was made for as an online store for AllMaart, the grocery store outside of VIT.
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![AllMaart Desktop Demo](./website-demo-image/desk1.png "Desktop Demo 1")
+![AllMaart Desktop Demo](./website-demo-image/desk2.png "Desktop Demo 2")
+![AllMaart Desktop Demo](./website-demo-image/desk3.png "Desktop Demo 3")
+![AllMaart Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -13,9 +15,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Installing AllMaart eCommerce Website
 
-To install **Anon**, follow these steps:
+To install **AllMaart**, follow these steps:
 
 Linux and macOS:
 
